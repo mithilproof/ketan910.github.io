@@ -1,2 +1,2 @@
-# stemaihome.github.io
+# stemai.org
 Home Page of stemai.org
